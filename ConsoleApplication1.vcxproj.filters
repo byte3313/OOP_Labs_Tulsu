@@ -18,70 +18,70 @@
     <ClCompile Include="main.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\лр7_ооп\demo7\lab7.cpp">
+    <ClCompile Include="demo1.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\лр6_ооп\demo6\demo6.cpp">
+    <ClCompile Include="demo2.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\лр5_ооп\demo5\lab5.cpp">
+    <ClCompile Include="demo3.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\лр4_ооп\ConsoleApplication1\lab4.cpp">
+    <ClCompile Include="demo4.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\лр3_ооп\ConsoleApplication1\lab3.cpp">
+    <ClCompile Include="demo5.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\лр2_ооп\ConsoleApplication1\lab2.cpp">
+    <ClCompile Include="demo6.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\лр1_ооп\ConsoleApplication1\lab1.cpp">
+    <ClCompile Include="demo7.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\лр1_ооп\ConsoleApplication1\demo1.cpp">
+    <ClCompile Include="lab1.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\лр2_ооп\ConsoleApplication1\demo2.cpp">
+    <ClCompile Include="lab2.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\лр3_ооп\ConsoleApplication1\demo3.cpp">
+    <ClCompile Include="lab3.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\лр4_ооп\ConsoleApplication1\demo4.cpp">
+    <ClCompile Include="lab4.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\лр5_ооп\demo5\demo5.cpp">
+    <ClCompile Include="lab5.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\лр7_ооп\demo7\demo7.cpp">
+    <ClCompile Include="lab7.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\лр1_ооп\ConsoleApplication1\lab1.h">
-      <Filter>Исходные файлы</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\лр2_ооп\ConsoleApplication1\lab2.h">
-      <Filter>Исходные файлы</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\лр3_ооп\ConsoleApplication1\lab3.h">
-      <Filter>Исходные файлы</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\лр4_ооп\ConsoleApplication1\lab4.h">
-      <Filter>Исходные файлы</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\лр5_ооп\demo5\lab5.h">
-      <Filter>Исходные файлы</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\лр6_ооп\demo6\lab6.h">
-      <Filter>Исходные файлы</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\лр7_ооп\demo7\lab7.h">
-      <Filter>Исходные файлы</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="README.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="lab1.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="lab2.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="lab3.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="lab4.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="lab5.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="lab6.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="lab7.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
