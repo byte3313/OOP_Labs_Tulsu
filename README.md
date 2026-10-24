@@ -31,5 +31,5 @@
 ## 🚀 Как запустить
 
 1. Склонируйте репозиторий на свой компьютер:
-   ```bash
-   git clone [https://github.com/byte3313/OOP_Labs.git](https://github.com/byte3313/OOP_Labs.git)
+   git clone https://github.com/byte3313/OOP_Labs_Tulsu.git
+2. Запустите проект в IDE и скомпилируйте.
